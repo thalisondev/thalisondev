@@ -6,20 +6,37 @@ Focado em **Engenharia de Dados** e **Data Science** — arquitetura limpa, cód
 
 ---
 
-## Stack
+## 🛠️ Stack
 
-```python
-stack = {
-    "linguagens":   ["Python", "SQL"],
-    "engenharia":   ["dbt", "Prefect", "Docker", "PostgreSQL", "DuckDB", "Parquet"],
-    "data_science": ["pandas", "scikit-learn", "Streamlit"],
-    "aprendendo":   ["AWS", "Spark", "Airflow"]
-}
-```
+**Linguagens**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Engenharia de Dados**
+
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-024DFD?style=for-the-badge&logo=prefect&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apacheparquet&logoColor=white)
+
+**Data Science**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Aprendendo**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 ---
 
-## Projetos
+## 📂 Projetos
 
 | Projeto | Descrição | Stack |
 |---|---|---|
@@ -29,7 +46,7 @@ stack = {
 
 ---
 
-## Sobre mim
+## 👤 Sobre mim
 
 - 🎓 Estudante de Ciência da Computação (turno da noite — sim, eu codigo de dia também)
 - 📍 Pará, Brasil
@@ -38,8 +55,8 @@ stack = {
 
 ---
 
-## Contato
+## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-thalison--dev-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalison-dev)
-[![Gmail](https://img.shields.io/badge/Email-thalison.santos.dev@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:thalison.santos.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-thalisondev-181717?style=flat&logo=github&logoColor=white)](https://github.com/thalisondev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thalison--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalison-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-thalison.santos.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thalison.santos.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-thalisondev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thalisondev)
