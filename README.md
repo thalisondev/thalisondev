@@ -1,3 +1,5 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=500&lines=Engenheiro+de+Dados;Data+Scientist;Construindo+pipelines+reais;Do+Pará+pro+mundo+🌍)](https://git.io/typing-svg)
 
 # Olá, eu sou o Thalison 👋
@@ -5,6 +7,8 @@
 Construo pipelines de dados e transformo dados brutos em algo realmente útil.
 
 Focado em **Engenharia de Dados** e **Data Science** — arquitetura limpa, código legível e projetos que funcionam em produção, não só no localhost.
+
+</div>
 
 ---
 
