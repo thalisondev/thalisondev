@@ -1,4 +1,4 @@
-# Olá, eu sou o Thalison 👋
+# Oi, eu sou o Thalison 👋
 
 Construo pipelines de dados e transformo dados brutos em algo realmente útil.
 
