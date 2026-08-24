@@ -55,7 +55,7 @@ Focado em **Engenharia de Dados** e **Data Science** — arquitetura limpa, cód
 
 ## 👤 Sobre mim
 
-- 🎓 Estudante de Ciência da Computação (turno da noite — sim, eu codigo de dia também)
+- 🎓 Estudante de Ciência da Computação (turno da noite)
 - 📍 Pará, Brasil
 - 🌍 Meta: trabalhar em tech no exterior
 - ⚽ Ponta-direita fora do terminal
